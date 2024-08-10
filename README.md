@@ -9,6 +9,7 @@ So the main purpose of this document is showing the best practices with examples
 ## Code Samples
 
 - [hello-world](./hello-world)
+- [simple-web-application](./simple-web-application/)
 
 **Made with love** by [misostack](https://github.com/misostack) at [phpguru.net](https://blog.phpguru.net/)
 
