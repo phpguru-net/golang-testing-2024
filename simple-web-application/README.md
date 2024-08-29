@@ -1,5 +1,9 @@
 # [Testing in Go] Simple Web Application
 
+```sh
+go get -u github.com/go-chi/chi/v5
+```
+
 In this topic we'll go through all kind of tests we have to write
 
 - Testing Validation
@@ -9,3 +13,8 @@ In this topic we'll go through all kind of tests we have to write
 - Testing database with integration tests
 - Testing File uploads
 - Testing Rest APIs
+
+## References
+
+- [Go Router](https://go-chi.io/#/README)
+- [Document Tool](https://docsify.js.org/#/?id=docsify)
